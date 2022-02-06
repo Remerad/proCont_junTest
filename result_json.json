@@ -1,0 +1,444 @@
+{
+    "R01010": {
+        "min_value": {
+            "Date": "07.12.2021",
+            "value": 51.7233
+        },
+        "avr_value": {
+            "value": 53.5772
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 56.5553
+        }
+    },
+    "R01020": {
+        "min_value": {
+            "Date": "11.11.2021",
+            "value": 41.6098
+        },
+        "avr_value": {
+            "value": 43.8504
+        },
+        "max_value": {
+            "Date": "28.01.2022",
+            "value": 46.4667
+        }
+    },
+    "R01035": {
+        "min_value": {
+            "Date": "12.11.2021",
+            "value": 95.2394
+        },
+        "avr_value": {
+            "value": 100.0538
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 106.6135
+        }
+    },
+    "R01060": {
+        "min_value": {
+            "Date": "15.12.2021",
+            "value": 14.8154
+        },
+        "avr_value": {
+            "value": 15.3801
+        },
+        "max_value": {
+            "Date": "26.01.2022",
+            "value": 16.3667
+        }
+    },
+    "R01090": {
+        "min_value": {
+            "Date": "07.12.2021",
+            "value": 28.9661
+        },
+        "avr_value": {
+            "value": 29.3707
+        },
+        "max_value": {
+            "Date": "26.01.2022",
+            "value": 30.1774
+        }
+    },
+    "R01100": {
+        "min_value": {
+            "Date": "12.11.2021",
+            "value": 41.7256
+        },
+        "avr_value": {
+            "value": 43.1615
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 45.5795
+        }
+    },
+    "R01115": {
+        "min_value": {
+            "Date": "23.12.2021",
+            "value": 12.8429
+        },
+        "avr_value": {
+            "value": 13.4234
+        },
+        "max_value": {
+            "Date": "04.02.2022",
+            "value": 14.5653
+        }
+    },
+    "R01135": {
+        "min_value": {
+            "Date": "12.11.2021",
+            "value": 22.3758
+        },
+        "avr_value": {
+            "value": 23.2568
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 24.7958
+        }
+    },
+    "R01200": {
+        "min_value": {
+            "Date": "26.01.2022",
+            "value": 10.101
+        },
+        "avr_value": {
+            "value": 90.9735
+        },
+        "max_value": {
+            "Date": "29.01.2022",
+            "value": 99.8414
+        }
+    },
+    "R01215": {
+        "min_value": {
+            "Date": "12.11.2021",
+            "value": 10.973
+        },
+        "avr_value": {
+            "value": 11.3497
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 11.9795
+        }
+    },
+    "R01235": {
+        "min_value": {
+            "Date": "11.11.2021",
+            "value": 70.695
+        },
+        "avr_value": {
+            "value": 74.5191
+        },
+        "max_value": {
+            "Date": "28.01.2022",
+            "value": 78.947
+        }
+    },
+    "R01239": {
+        "min_value": {
+            "Date": "12.11.2021",
+            "value": 81.6552
+        },
+        "avr_value": {
+            "value": 84.413
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 89.1511
+        }
+    },
+    "R01270": {
+        "min_value": {
+            "Date": "26.11.2021",
+            "value": 10.0088
+        },
+        "avr_value": {
+            "value": 63.6158
+        },
+        "max_value": {
+            "Date": "25.11.2021",
+            "value": 99.9148
+        }
+    },
+    "R01335": {
+        "min_value": {
+            "Date": "11.11.2021",
+            "value": 16.4867
+        },
+        "avr_value": {
+            "value": 17.1262
+        },
+        "max_value": {
+            "Date": "28.01.2022",
+            "value": 18.1675
+        }
+    },
+    "R01350": {
+        "min_value": {
+            "Date": "12.11.2021",
+            "value": 56.8208
+        },
+        "avr_value": {
+            "value": 58.7895
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 62.7284
+        }
+    },
+    "R01370": {
+        "min_value": {
+            "Date": "11.11.2021",
+            "value": 83.3402
+        },
+        "avr_value": {
+            "value": 87.856
+        },
+        "max_value": {
+            "Date": "28.01.2022",
+            "value": 93.0749
+        }
+    },
+    "R01375": {
+        "min_value": {
+            "Date": "11.11.2021",
+            "value": 11.0601
+        },
+        "avr_value": {
+            "value": 11.7021
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 12.4864
+        }
+    },
+    "R01500": {
+        "min_value": {
+            "Date": "11.11.2021",
+            "value": 40.2821
+        },
+        "avr_value": {
+            "value": 41.8526
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 44.1643
+        }
+    },
+    "R01535": {
+        "min_value": {
+            "Date": "07.12.2021",
+            "value": 80.383
+        },
+        "avr_value": {
+            "value": 83.9776
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 88.8046
+        }
+    },
+    "R01565": {
+        "min_value": {
+            "Date": "23.11.2021",
+            "value": 17.6086
+        },
+        "avr_value": {
+            "value": 18.3419
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 19.4361
+        }
+    },
+    "R01585": {
+        "min_value": {
+            "Date": "12.11.2021",
+            "value": 16.489
+        },
+        "avr_value": {
+            "value": 17.0628
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 18.0331
+        }
+    },
+    "R01589": {
+        "min_value": {
+            "Date": "11.11.2021",
+            "value": 99.7895
+        },
+        "avr_value": {
+            "value": 104.3134
+        },
+        "max_value": {
+            "Date": "28.01.2022",
+            "value": 110.5045
+        }
+    },
+    "R01625": {
+        "min_value": {
+            "Date": "11.11.2021",
+            "value": 52.456
+        },
+        "avr_value": {
+            "value": 54.9117
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 58.716
+        }
+    },
+    "R01670": {
+        "min_value": {
+            "Date": "11.11.2021",
+            "value": 62.6451
+        },
+        "avr_value": {
+            "value": 66.0055
+        },
+        "max_value": {
+            "Date": "28.01.2022",
+            "value": 69.8955
+        }
+    },
+    "R01700": {
+        "min_value": {
+            "Date": "21.12.2021",
+            "value": 42.4692
+        },
+        "avr_value": {
+            "value": 58.9436
+        },
+        "max_value": {
+            "Date": "09.11.2021",
+            "value": 73.7189
+        }
+    },
+    "R01710": {
+        "min_value": {
+            "Date": "11.11.2021",
+            "value": 20.2275
+        },
+        "avr_value": {
+            "value": 21.3216
+        },
+        "max_value": {
+            "Date": "28.01.2022",
+            "value": 22.5886
+        }
+    },
+    "R01717": {
+        "min_value": {
+            "Date": "11.11.2021",
+            "value": 66.1933
+        },
+        "avr_value": {
+            "value": 69.0467
+        },
+        "max_value": {
+            "Date": "28.01.2022",
+            "value": 73.0722
+        }
+    },
+    "R01720": {
+        "min_value": {
+            "Date": "28.12.2021",
+            "value": 26.8523
+        },
+        "avr_value": {
+            "value": 27.2161
+        },
+        "max_value": {
+            "Date": "24.11.2021",
+            "value": 27.8816
+        }
+    },
+    "R01760": {
+        "min_value": {
+            "Date": "12.11.2021",
+            "value": 32.3253
+        },
+        "avr_value": {
+            "value": 33.7949
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 36.4006
+        }
+    },
+    "R01770": {
+        "min_value": {
+            "Date": "28.12.2021",
+            "value": 80.1297
+        },
+        "avr_value": {
+            "value": 82.3207
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 85.257
+        }
+    },
+    "R01775": {
+        "min_value": {
+            "Date": "12.11.2021",
+            "value": 77.3706
+        },
+        "avr_value": {
+            "value": 80.864
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 85.827
+        }
+    },
+    "R01810": {
+        "min_value": {
+            "Date": "16.12.2021",
+            "value": 45.6891
+        },
+        "avr_value": {
+            "value": 47.7768
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 52.0448
+        }
+    },
+    "R01815": {
+        "min_value": {
+            "Date": "11.11.2021",
+            "value": 60.0061
+        },
+        "avr_value": {
+            "value": 62.6964
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 65.9174
+        }
+    },
+    "R01820": {
+        "min_value": {
+            "Date": "12.11.2021",
+            "value": 62.4065
+        },
+        "avr_value": {
+            "value": 65.2533
+        },
+        "max_value": {
+            "Date": "27.01.2022",
+            "value": 69.2033
+        }
+    }
+}
