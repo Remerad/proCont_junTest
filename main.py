@@ -4,6 +4,7 @@ import json
 import requests as requests
 from datetime import date, timedelta
 
+
 def get_dates_and_values(sourse_str):
     dict_of_dates_and_values = {}
     for day in sourse_str.split('<Record Date=')[1:]:
@@ -96,13 +97,17 @@ if __name__ == '__main__':
         valutes_dict = req_VAL_dict()
         print("Есть связь с сервером центробанка, запрашиваем данные.")
     except:
-        print("Сбой связи с сервером центробанка.")
+        print("Сбой связи с сервером центробанка, проверьте , открывется ли страница "
+              "https://www.cbr.ru/scripts/XML_daily.asp в браузере.")
+        print(" Если открывается, обратитесь к поставщику ПО. Если не открывается, обратитесь к провайдеру связи.")
+        os.system('pause')
+
     rez_dict = {}
     for val_id in valutes_dict.keys():
         try:
             rez_dict.update({val_id: find_min_avr_max(get_dates_and_values(req_VAL_NM_daydelta(val_id, 90).text))})
         except:
-            pass
+            print(f"Валюта {valutes_dict.get(val_id).get('Name')} отсутсвует в журнале ЦБ.")
     with open('result_json.json', 'w') as fp:
         json.dump(rez_dict, fp, indent=4)
     make_csv_file(valutes_dict, rez_dict)
